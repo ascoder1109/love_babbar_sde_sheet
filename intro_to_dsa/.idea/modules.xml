@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mathematics.iml" filepath="$PROJECT_DIR$/mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro_to_dsa.iml" filepath="$PROJECT_DIR$/intro_to_dsa.iml" />
     </modules>
   </component>
 </project>
